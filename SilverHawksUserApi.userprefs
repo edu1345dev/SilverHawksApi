@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4EDE64C3-333C-4C8D-B6D2-E8BB0CDC0311}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SilverHawksUserApi/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="SilverHawksUserApi/Controllers/AtletasController.cs" Line="73" Column="17" />
+      <File FileName="SilverHawksUserApi/Controllers/ChamadasController.cs" Line="40" Column="35" />
+      <File FileName="SilverHawksUserApi/Controllers/PresencasController.cs" Line="43" Column="9" />
+      <File FileName="SilverHawksUserApi/Models/Atleta.cs" Line="16" Column="1" />
+      <File FileName="SilverHawksUserApi/Models/Presenca.cs" Line="5" Column="10" />
+      <File FileName="SilverHawksUserApi/Data/DbInitializer.cs" Line="12" Column="46" />
+      <File FileName="SilverHawksUserApi/Startup.cs" Line="43" Column="81" />
+      <File FileName="SilverHawksUserApi/Controllers/ValuesController.cs" Line="22" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SilverHawksUserApi" expanded="True">
+            <Node name="SilverHawksUserApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/Models/Presenca.cs" relfile="SilverHawksUserApi/Models/Presenca.cs" line="1" column="14" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SilverHawksUserApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

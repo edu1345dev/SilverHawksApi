@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="Models\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\TodoContext.cs" />
+    <Compile Remove="Controllers\TodoController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="SilverHawks.db" />
+    <None Remove="SilverHawks1.db" />
+    <None Remove="SilverHawks10.db" />
+    <None Remove="TodoItems1.db" />
+    <None Remove="SilverHawks8.db" />
+    <None Remove="SilverHawks9.db" />
+    <None Remove="TodoItems2.db" />
+    <None Remove="SilverHawks11.db" />
+    <None Remove="SilverHawks12.db" />
+    <None Remove="SilverHawks13.db" />
+    <None Remove="SilverHawks14.db" />
+    <None Remove="SilverHawks15.db" />
+    <None Remove="SilverHawks16.db" />
+    <None Remove="SilverHawks17.db" />
+    <None Remove="SilverHawks18.db" />
+    <None Remove="SilverHawks19.db" />
+    <None Remove="SilverHawks2.db" />
+    <None Remove="SilverHawks20.db" />
+    <None Remove="SilverHawks21.db" />
+    <None Remove="SilverHawks22.db" />
+    <None Remove="SilverHawks23.db" />
+    <None Remove="SilverHawks24.db" />
+    <None Remove="SilverHawks3.db" />
+    <None Remove="SilverHawks4.db" />
+    <None Remove="SilverHawks5.db" />
+    <None Remove="SilverHawks7.db" />
+  </ItemGroup>
+</Project>

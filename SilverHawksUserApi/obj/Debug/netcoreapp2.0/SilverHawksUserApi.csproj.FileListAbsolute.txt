@@ -1,0 +1,11 @@
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/bin/Debug/netcoreapp2.0/SilverHawksUserApi.deps.json
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/bin/Debug/netcoreapp2.0/SilverHawksUserApi.runtimeconfig.json
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/bin/Debug/netcoreapp2.0/SilverHawksUserApi.runtimeconfig.dev.json
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/bin/Debug/netcoreapp2.0/SilverHawksUserApi.dll
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/bin/Debug/netcoreapp2.0/SilverHawksUserApi.pdb
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/obj/Debug/netcoreapp2.0/SilverHawksUserApi.csproj.CoreCompileInputs.cache
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/obj/Debug/netcoreapp2.0/SilverHawksUserApi.AssemblyInfoInputs.cache
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/obj/Debug/netcoreapp2.0/SilverHawksUserApi.AssemblyInfo.cs
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/obj/Debug/netcoreapp2.0/SilverHawksUserApi.dll
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/obj/Debug/netcoreapp2.0/SilverHawksUserApi.pdb
+/Users/josesantos/Projects/SilverHawksUserApi/SilverHawksUserApi/obj/Debug/netcoreapp2.0/SilverHawksUserApi.csprojResolveAssemblyReference.cache
